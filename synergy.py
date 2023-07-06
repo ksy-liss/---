@@ -1,0 +1,7 @@
+print('Укажите вид питомца: ')
+view = input()
+print('Кличка питомца: ')
+nickname = input()
+print('Возраст питомца: ')
+age = input()
+print('Это', view, 'по кличке','"', nickname, '".', 'Возраст:', age, 'лет/года.')
